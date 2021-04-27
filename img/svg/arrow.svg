@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .age-arrow-cls-1, .age-arrow-cls-2 {
+        fill: #497e9b;
+      }
+
+      .age-arrow-cls-2 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>arrow</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <g id="arrow">
+        <circle class="age-arrow-cls-1" cx="75" cy="75" r="75"/>
+        <path class="age-arrow-cls-2" d="M118.39,49.17a50.53,50.53,0,1,1-17.16-17.31"/>
+        <path class="age-arrow-cls-2" d="M105.73,51.75A38.46,38.46,0,1,1,97.94,44"/>
+        <circle class="age-arrow-cls-2" cx="75" cy="75" r="25.39"/>
+        <circle class="age-arrow-cls-2" cx="75" cy="75" r="11.7"/>
+        <line class="age-arrow-cls-2" x1="75" y1="75" x2="120.88" y2="28.51"/>
+        <path class="age-arrow-cls-2" d="M115.12,34.35c2.83-16.29-1.59-14.29-1.59-14.29L97.94,35V51.76h17.87L131,36.47C130.79,35.23,130.15,32.11,115.12,34.35Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

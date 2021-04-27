@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .age-eyetarget-cls-1, .age-eyetarget-cls-2 {
+        fill: #9a75bd;
+      }
+
+      .age-eyetarget-cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>eye target</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <g id="eye_target" data-name="eye target">
+        <circle class="age-eyetarget-cls-1" cx="75" cy="75" r="75"/>
+        <g>
+          <g>
+            <path class="age-eyetarget-cls-2" d="M75,43.2c35.8,0,64.9,25.6,64.9,31.3S110.8,105.2,75,105.2,10.1,80.3,10.1,74.6,39.1,43.2,75,43.2Z"/>
+            <path class="age-eyetarget-cls-2" d="M139.9,74.6c0,5.8-29.1,30.7-64.9,30.7s-64.9-25-64.9-30.7S39.2,43.3,75,43.3,139.9,68.8,139.9,74.6Z"/>
+          </g>
+          <g>
+            <path class="age-eyetarget-cls-2" d="M75,47.7A26.6,26.6,0,1,1,48.4,74.3,26.59,26.59,0,0,1,75,47.7Z"/>
+            <path class="age-eyetarget-cls-2" d="M101.6,74.3A26.6,26.6,0,1,1,75,47.7h0a26.46,26.46,0,0,1,26.6,26.6Z"/>
+          </g>
+          <g>
+            <path class="age-eyetarget-cls-2" d="M74.9,62.3a12,12,0,1,1-12,12h0A12,12,0,0,1,74.9,62.3Z"/>
+            <path class="age-eyetarget-cls-2" d="M87,74.3a12,12,0,1,1-12-12,11.85,11.85,0,0,1,12,12Z"/>
+          </g>
+          <path class="age-eyetarget-cls-2" d="M74.9,56.7c-3.1,0-5.6-1.7-5.6-3.9V32.2c0-2.2,2.6-3.9,5.6-3.9s5.6,1.7,5.6,3.9V52.8C80.6,55,78.1,56.7,74.9,56.7Z"/>
+          <path class="age-eyetarget-cls-2" d="M92.9,74.3c0-3.1,1.7-5.6,3.9-5.6l20.6-.1c2.2,0,3.9,2.5,3.9,5.6s-1.7,5.6-3.9,5.6l-20.6.1C94.6,79.9,92.9,77.4,92.9,74.3Z"/>
+          <path class="age-eyetarget-cls-2" d="M29.4,74.3c0-3.1,1.7-5.6,3.9-5.6l20.6-.1c2.2,0,3.9,2.5,3.9,5.6s-1.7,5.6-3.9,5.6l-20.6.1C31.2,79.9,29.4,77.4,29.4,74.3Z"/>
+          <path class="age-eyetarget-cls-2" d="M74.9,118.8c-3.1,0-5.6-1.7-5.6-3.9V94.3c0-2.2,2.6-3.9,5.6-3.9s5.6,1.7,5.6,3.9v20.6C80.6,117.1,78.1,118.8,74.9,118.8Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

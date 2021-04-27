@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 153 153">
+  <defs>
+    <style>
+      .age-briliant-cls-1 {
+        fill: #14a5a5;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>briliant</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <g id="briliant">
+        <circle class="age-briliant-cls-1" cx="76.5" cy="76.5" r="75"/>
+        <g>
+          <polygon class="age-briliant-cls-1" points="111.67 34.85 136.82 64.95 77.59 136.57 77.5 136.75 77.41 136.57 18.18 64.95 43.33 34.85 111.67 34.85"/>
+          <polygon class="age-briliant-cls-1" points="136.82 64.95 77.59 136.57 77.5 136.75 77.41 136.57 18.18 64.95 43.33 34.85 111.67 34.85 136.82 64.95"/>
+          <polygon class="age-briliant-cls-1" points="136.82 64.95 77.59 136.57 77.5 136.66 77.41 136.57 18.18 64.95 136.82 64.95"/>
+          <polygon class="age-briliant-cls-1" points="111.67 34.85 101.58 64.95 77.59 136.57 77.5 136.75 77.41 136.57 53.42 64.95 43.33 34.85 111.67 34.85"/>
+          <line class="age-briliant-cls-1" x1="43.33" y1="34.85" x2="18.18" y2="64.95"/>
+          <line class="age-briliant-cls-1" x1="136.82" y1="64.95" x2="111.67" y2="34.85"/>
+          <polygon class="age-briliant-cls-1" points="53.42 64.95 77.5 34.85 101.58 64.95 53.42 64.95"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
